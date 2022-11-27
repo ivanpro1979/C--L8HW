@@ -20,6 +20,12 @@ int rowsB = int.Parse(Console.ReadLine());
 Console.Write("Введите количество столбцов 2 массива: ");
 int columnsB = int.Parse(Console.ReadLine());
 
+if (columnsA != rowsB)
+{
+    Console.WriteLine("Такие матрицы умножать невозможно!");
+    return;
+}
+
 int[,] A = new int[rowsA, columnsA];
 int[,] B = new int[rowsB, columnsB];
 int[,] C = new int[A.GetLength(0), B.GetLength(1)];
