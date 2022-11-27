@@ -1,0 +1,15 @@
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#L8HW\58\obj\Debug\net6.0\58.csproj.AssemblyReference.cache
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#L8HW\58\obj\Debug\net6.0\58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#L8HW\58\obj\Debug\net6.0\58.AssemblyInfoInputs.cache
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#L8HW\58\obj\Debug\net6.0\58.AssemblyInfo.cs
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#L8HW\58\obj\Debug\net6.0\58.csproj.CoreCompileInputs.cache
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#L8HW\58\bin\Debug\net6.0\58.exe
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#L8HW\58\bin\Debug\net6.0\58.deps.json
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#L8HW\58\bin\Debug\net6.0\58.runtimeconfig.json
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#L8HW\58\bin\Debug\net6.0\58.dll
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#L8HW\58\bin\Debug\net6.0\58.pdb
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#L8HW\58\obj\Debug\net6.0\58.dll
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#L8HW\58\obj\Debug\net6.0\refint\58.dll
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#L8HW\58\obj\Debug\net6.0\58.pdb
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#L8HW\58\obj\Debug\net6.0\58.genruntimeconfig.cache
+C:\Users\HP Pavilion Gamer\Desktop\учеба\1семестр\C#L8HW\58\obj\Debug\net6.0\ref\58.dll
